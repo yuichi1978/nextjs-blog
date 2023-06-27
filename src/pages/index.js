@@ -31,7 +31,7 @@ export default function Home({ allPostsData }) {
   return (
     <Layout title="Home" home>
       <section>
-        <p className="my-5 md:my-12 text-base md:text-2xl text-center">私はフロントエンドエンジニアです<br />Udemy動画教材を見ながら学んでおります。</p>
+        <p className="my-5 md:my-12 text-base md:text-2xl text-center">私はNextjsエンジニアです<br />好きなフレームワークはNextjsです。</p>
       </section>
 
       <section>
